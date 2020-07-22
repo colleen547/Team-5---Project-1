@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# raw csv zip is too large for github
+199387_1319582_bundle_archive.zip
+US_Accidents_June20.csv
