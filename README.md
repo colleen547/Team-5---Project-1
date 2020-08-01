@@ -4,11 +4,15 @@ For our project, we investigated traffic accidents and the circumstances surroun
 
 Our data was obtained from __[Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents)__
 
+## Team Members:
+***
+Chris Hauck, Colleen Banzhof, Ken Njema, and Eric Lewiston
+
 ## Questions:
 ***
-* Do the seasons affect number/severity of traffic accidents?
-* Does the day of the week affect number/severity of accidents?
-* Does the time of day affect number/severity of accidents?
+* Do the **seasons** affect number/severity of traffic accidents?
+* Does the **day of the week** affect number/severity of accidents?
+* Does the **time of day** affect number/severity of accidents?
  
 ## Dataset Acknowledgements
 ***
